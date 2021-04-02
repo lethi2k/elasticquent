@@ -4,7 +4,7 @@
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
     "elasticsearch",
-    "eloquent",
+    "elasticquent",
     "laravel"
   ],
   "homepage": "https://github.com/lethi2k/elasticquent",
