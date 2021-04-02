@@ -13,7 +13,7 @@
     {
       "name": "Le Thi",
       "email": "ledinhthi2909@gmail.com",
-      "homepage": "http://adamfairholm.com"
+      "homepage": "https://zozo.vn"
     }
   ],
   "require": {
@@ -32,9 +32,19 @@
       "lethi2k\\elasticquent\\": "src/"
     }
   },
+  "autoload-dev": {
+    "psr-4": {
+      "lethi2k\\elasticquent\\": "tests/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
   "extra": {
     "branch-alias": {
       "dev-master": "v1.0.0"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
