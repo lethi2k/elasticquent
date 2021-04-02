@@ -29,7 +29,7 @@
   },
   "autoload": {
     "psr-4": {
-      "lethi2k\\elasticquent\\": "src/"
+      "elasticquent\\": "src/"
     }
   },
   "extra": {
